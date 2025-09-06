@@ -8,7 +8,7 @@ This project is part of the **QA Internship Assignment** for automating the logi
 
 ### ✅ Task 1: Manual Test Cases
 - Created detailed **functional, negative, UI, and boundary test cases** for the login page.  
-- File: [`Login_TestCases.xlsx`](./Login_TestCases.xlsx)  
+- File: [`Janitri_Login_Test_Cases.xlsx`](./Janitri_Login_Test_Cases.xlsx)  
 
 ### ✅ Task 2: Automation Framework
 - Developed automation scripts using **Java + Selenium WebDriver**.  
