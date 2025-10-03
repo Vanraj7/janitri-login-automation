@@ -1,10 +1,10 @@
 # Janitri Dashboard Login Automation
 
-This project is part of the **QA Internship Assignment** for automating the login page of the **Janitri Dashboard** using **Java, Selenium WebDriver, TestNG, and the Page Object Model (POM)**.
+This project is for automating the login page of the **Janitri Dashboard** using **Java, Selenium WebDriver, TestNG, and the Page Object Model (POM)**.
 
 ---
 
-## 📌 Assignment Tasks
+## 📌 Tasks
 
 ### ✅ Task 1: Manual Test Cases
 - Created detailed **functional, negative, UI, and boundary test cases** for the login page.  
